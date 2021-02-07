@@ -1,0 +1,2 @@
+# Multivariate-Linear-Regression
+Case Study on  Multiple Linear Regression: Building Model, with the median value of owner-occupied homes as the target variable and the rest as predictors.  Determining the significance of these different predictors, and dropping the ones that are not useful for model. Documentation and Decision making based on Statistics and Machine Learning based on Accuracy of Model
